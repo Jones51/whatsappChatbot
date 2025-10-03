@@ -16,7 +16,8 @@ Na atualidade dos negócios, um agente inteligente é uma ferramenta essencial p
 4. Elaboração do Log das mensagens no Google Sheets.
 
 ## Habilidades 📊
--RPA: N8N, LLM, Python, Google Sheets
+-RPA: N8N, LLM, Python, Google Sheets.
+
 -APIS: APis Rest, Token, autenticação.
 
 ## Projeto Final 🪄
